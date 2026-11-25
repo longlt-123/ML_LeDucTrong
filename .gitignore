@@ -1,2 +1,3 @@
 /.venv
 submission*
+__pycache__/
